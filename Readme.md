@@ -5,7 +5,7 @@ Be carefull if you are updating your code.
 
 Cliphp stands for *Command Line Interface for PHP* and is a framework to build scripts with PHP 5.3+
 
-Current version: **0.1-beta** ([release notes]())
+Current version: **0.1-beta** ([release notes](changelog.md))
 
 ## Quick example
 Create a file ```script.php``` in the ```scripts``` directory.
@@ -54,10 +54,13 @@ $ php src/index.php -n Daniel
 // Welcome Daniel
 ```
 
-You can find all the documentation [here]() and some [examples]() as well.
+You can find all the documentation [here](docs/Readme.md) and some [examples](src/examples/) as well.
 
 ## Contribution
 You are free to contribute to the project. If you find a bug and/or have a nice idea about a feature feel free to open an issue or submit your own solution. I'll be more than happy to hear your suggestions. :)
 
 ## Testing
 The framework testing is done using phpunit. To run the tests you just need to run ```phpunit``` in the root folder.
+
+##License
+Cliphp is licensed under **The MIT License (MIT)**, see the [LICENSE](LICENSE) file for more details.
