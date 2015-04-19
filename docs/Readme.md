@@ -30,7 +30,7 @@ Cliphp stands for *Command Line Interface for PHP* and is meant to be used as a 
 	- <a href="#using-libraries">Using libraries</a>
 		- <a href="#prompt">Prompt</a>
 		- <a href="#progress">Progress</a>
-	- <a href="#creating-libraries-advanced-">Creating libraries (Advanced)</a>
+	- <a href="#creating-libraries-advanced">Creating libraries (Advanced)</a>
 - <a href="#examples">Examples</a>
 
 ## Getting started
