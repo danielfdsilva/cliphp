@@ -1,0 +1,7 @@
+cliphp
+.resources
+phpunit.phar
+
+#Aptana files:
+.project
+.settings
